@@ -1,0 +1,25 @@
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 43%;
+}
+.calculator{
+    box-sizing: border-box;
+    height: 20em;
+    width: 13em;
+    border: 2px solid black;
+    padding: 1em;
+    border-radius: 1em;
+}
+button{
+    height: 15%;
+    width: 23%;
+    margin-bottom: 0.4em;
+    background-color: silver;
+}
+#display{
+    height: 10%;
+    width: 80%;
+    margin-bottom: 2em;
+}
